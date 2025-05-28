@@ -1,11 +1,10 @@
-Physio-net dataset/
-gaitenv/gait-in-neurodegenerative-disease-database-1.0.0/
-gaitenv/etc/
-gaitenv/.ipynb_checkpoints/
-gaitenv/Include/
-gaitenv/Lib/
-gaitenv/Scripts/
-gaitenv/share/
-12162300/
-12162300.zip/
-da/
+Physio-net dataset/*
+gaitenv/gait-in-neurodegenerative-disease-database-1.0.0/*
+gaitenv/etc/*
+gaitenv/.ipynb_checkpoints/*
+gaitenv/Include/*
+gaitenv/Lib/*
+gaitenv/Scripts/*
+gaitenv/share/*
+gaitenv/gaf_images/*
+Gait_Dataset_silhoutte_based/*
