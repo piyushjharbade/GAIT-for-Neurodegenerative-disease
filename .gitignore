@@ -4,6 +4,7 @@ gaitenv/etc/*
 gaitenv/.ipynb_checkpoints/*
 gaitenv/Include/*
 gaitenv/Lib/*
+gaitenv/best_ha_resnet.pth
 gaitenv/Scripts/*
 gaitenv/share/*
 gaitenv/gaf_images/*
