@@ -10,3 +10,4 @@ gaitenv/gaf_images/*
 Gait_Dataset_silhoutte_based/*
 gaitenv/trained_weights/*
 "gaitenv/best_ha_resnet.pth" 
+gaitenv/best_ha_resnet.pth 
