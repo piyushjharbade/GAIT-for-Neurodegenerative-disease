@@ -1,0 +1,3 @@
+https://lazyprogrammer.me/convert-a-time-series-into-an-image/
+https://pyts.readthedocs.io/en/stable/auto_examples/image/plot_single_gaf.html
+https://pyts.readthedocs.io/en/0.9.0/auto_examples/image/plot_gaf.html
